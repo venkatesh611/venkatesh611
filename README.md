@@ -7,8 +7,8 @@
 ### DevOps Engineer  
 🚀 DevOps • Cloud Engineer • AWS • CI/CD • Kubernetes • Terraform • Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Email-yourmail@gmail.com-red?logo=gmail&style=flat)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/venkatesh--thota/)
+[![Gmail](https://img.shields.io/badge/Email-yourmail@gmail.com-red?logo=gmail&style=flat)](mailto:venkateshthota.ai.ops@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-venkatesh611-black?logo=github&style=flat)](https://github.com/venkatesh611)
 
 ---
